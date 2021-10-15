@@ -87,11 +87,9 @@ Bilibili Link: https://www.bilibili.com/video/BV1ds411T7pp/
 
 ## 3. Projects
 
-Failify: 
+Failify: https://github.com/failify/failify
 
-Example-hdfs:
-
- 
+Example-hdfs: https://github.com/MartyLinZY/example-hdfs
 
 ## 4. Datasets 
 
